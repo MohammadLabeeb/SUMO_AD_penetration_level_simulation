@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-23 23:03:23 by Eclipse SUMO GUI Version 1.10.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\User\Desktop\SUMO_Pitch\road_and_vehicle.net.xml"/>
+        <route-files value="C:\Users\User\Desktop\SUMO_Pitch\generated_traffic_0_5.rou.xml"/>
+    </input>
+
+    <output>
+        <output-prefix value="out\myoutput."/>
+        <summary-output value="C:\Users\User\Desktop\SUMO_Pitch\summary.xml"/>
+        <tripinfo-output value="C:\Users\User\Desktop\SUMO_Pitch\tripinfo.xml"/>
+        <vehroute-output value="C:\Users\User\Desktop\SUMO_Pitch\vehroute.xml"/>
+        <stop-output value="C:\Users\User\Desktop\SUMO_Pitch\stop.out.xml"/>
+    </output>
+
+</configuration>
+-->
+
+<stops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/stopinfo_file.xsd">
+</stops>

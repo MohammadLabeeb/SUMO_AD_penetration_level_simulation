@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-21 19:07:17 by Eclipse SUMO netedit Version 1.10.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <output>
+        <output-file value="C:\Users\User\Desktop\SUMO_Pitch\road_and_vehicle.net.xml"/>
+    </output>
+
+    <processing>
+        <offset.disable-normalization value="true"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+    </junctions>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<net version="1.9" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="-18.40,57.19,110.98,57.19" origBoundary="10000000000.00,10000000000.00,-10000000000.00,-10000000000.00" projParameter="!"/>
+
+    <edge id="-gneE0" from="gneJ1" to="gneJ0" priority="-1" length="420.00">
+        <lane id="-gneE0_0" index="0" speed="13.89" length="420.00" shape="110.98,61.99 -18.40,61.99"/>
+        <lane id="-gneE0_1" index="1" speed="13.89" length="420.00" shape="110.98,58.79 -18.40,58.79"/>
+    </edge>
+    <edge id="gneE0" from="gneJ0" to="gneJ1" priority="-1" length="420.00">
+        <lane id="gneE0_0" index="0" speed="13.89" length="420.00" shape="-18.40,52.39 110.98,52.39"/>
+        <lane id="gneE0_1" index="1" speed="13.89" length="420.00" shape="-18.40,55.59 110.98,55.59"/>
+    </edge>
+
+    <junction id="gneJ0" type="dead_end" x="-18.40" y="57.19" incLanes="-gneE0_0 -gneE0_1" intLanes="" shape="-18.40,57.19 -18.40,63.59 -18.40,57.19"/>
+    <junction id="gneJ1" type="dead_end" x="110.98" y="57.19" incLanes="gneE0_0 gneE0_1" intLanes="" shape="110.98,57.19 110.98,50.79 110.98,57.19"/>
+
+</net>

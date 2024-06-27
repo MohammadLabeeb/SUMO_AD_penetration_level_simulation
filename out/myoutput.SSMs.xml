@@ -1,0 +1,80 @@
+<conflict begin="451.00" end="472.00" ego="vehicle_558" foe="vehicle_554">
+    <minTTC time="456.00" position="50.82,58.79" type="2" value="2.63"/>
+    <maxDRAC time="456.00" position="50.82,58.79" type="2" value="1.33"/>
+</conflict>
+<conflict begin="451.00" end="472.00" ego="vehicle_554" foe="vehicle_558">
+    <minTTC time="456.00" position="50.82,58.79" type="3" value="2.63"/>
+    <maxDRAC time="456.00" position="50.82,58.79" type="3" value="1.33"/>
+</conflict>
+<conflict begin="534.00" end="561.00" ego="vehicle_616" foe="vehicle_772">
+    <minTTC time="546.00" position="41.04,55.59" type="2" value="2.97"/>
+    <maxDRAC time="546.00" position="41.04,55.59" type="2" value="0.84"/>
+</conflict>
+<conflict begin="534.00" end="561.00" ego="vehicle_772" foe="vehicle_616">
+    <minTTC time="546.00" position="41.04,55.59" type="3" value="2.97"/>
+    <maxDRAC time="546.00" position="41.04,55.59" type="3" value="0.84"/>
+</conflict>
+<conflict begin="598.00" end="620.00" ego="vehicle_758" foe="vehicle_749">
+    <minTTC time="605.00" position="44.26,61.99" type="2" value="2.78"/>
+    <maxDRAC time="605.00" position="44.26,61.99" type="2" value="0.90"/>
+</conflict>
+<conflict begin="598.00" end="620.00" ego="vehicle_749" foe="vehicle_758">
+    <minTTC time="605.00" position="44.26,61.99" type="3" value="2.78"/>
+    <maxDRAC time="605.00" position="44.26,61.99" type="3" value="0.90"/>
+</conflict>
+<conflict begin="791.00" end="812.00" ego="vehicle_1167" foe="vehicle_894">
+    <minTTC time="809.00" position="96.53,55.59" type="3" value="2.25"/>
+    <maxDRAC time="809.00" position="96.53,55.59" type="3" value="1.09"/>
+</conflict>
+<conflict begin="791.00" end="812.00" ego="vehicle_894" foe="vehicle_1167">
+    <minTTC time="809.00" position="96.53,55.59" type="2" value="2.25"/>
+    <maxDRAC time="809.00" position="96.53,55.59" type="2" value="1.09"/>
+</conflict>
+<conflict begin="787.00" end="815.00" ego="vehicle_973" foe="vehicle_1012">
+    <minTTC time="793.00" position="73.18,58.79" type="2" value="2.55"/>
+    <maxDRAC time="793.00" position="73.18,58.79" type="2" value="1.14"/>
+</conflict>
+<conflict begin="787.00" end="815.00" ego="vehicle_1012" foe="vehicle_973">
+    <minTTC time="793.00" position="73.18,58.79" type="3" value="2.55"/>
+    <maxDRAC time="793.00" position="73.18,58.79" type="3" value="1.14"/>
+</conflict>
+<conflict begin="994.00" end="1022.00" ego="vehicle_1477" foe="vehicle_1151">
+    <minTTC time="1012.00" position="65.80,55.59" type="3" value="2.77"/>
+    <maxDRAC time="1012.00" position="65.80,55.59" type="3" value="0.69"/>
+</conflict>
+<conflict begin="994.00" end="1022.00" ego="vehicle_1151" foe="vehicle_1477">
+    <minTTC time="1012.00" position="65.80,55.59" type="2" value="2.77"/>
+    <maxDRAC time="1012.00" position="65.80,55.59" type="2" value="0.69"/>
+</conflict>
+<conflict begin="1495.00" end="1521.00" ego="vehicle_1810" foe="vehicle_2277">
+    <minTTC time="1498.00" position="19.78,55.59" type="2" value="1.96"/>
+    <maxDRAC time="1498.00" position="19.78,55.59" type="2" value="2.45"/>
+</conflict>
+<conflict begin="1495.00" end="1521.00" ego="vehicle_2277" foe="vehicle_1810">
+    <minTTC time="1498.00" position="19.78,55.59" type="3" value="1.96"/>
+    <maxDRAC time="1498.00" position="19.78,55.59" type="3" value="2.45"/>
+</conflict>
+<conflict begin="1723.00" end="1745.00" ego="vehicle_2215" foe="vehicle_2217">
+    <minTTC time="1737.00" position="16.62,61.99" type="3" value="2.51"/>
+    <maxDRAC time="1737.00" position="16.62,61.99" type="3" value="1.53"/>
+</conflict>
+<conflict begin="1723.00" end="1745.00" ego="vehicle_2217" foe="vehicle_2215">
+    <minTTC time="1737.00" position="16.62,61.99" type="2" value="2.51"/>
+    <maxDRAC time="1737.00" position="16.62,61.99" type="2" value="1.53"/>
+</conflict>
+<conflict begin="2274.00" end="2304.00" ego="vehicle_2676" foe="vehicle_2944">
+    <minTTC time="2275.00" position="98.60,58.79" type="2" value="2.55"/>
+    <maxDRAC time="2275.00" position="98.60,58.79" type="2" value="1.57"/>
+</conflict>
+<conflict begin="2274.00" end="2304.00" ego="vehicle_2944" foe="vehicle_2676">
+    <minTTC time="2275.00" position="98.60,58.79" type="3" value="2.55"/>
+    <maxDRAC time="2275.00" position="98.60,58.79" type="3" value="1.57"/>
+</conflict>
+<conflict begin="2662.00" end="2683.00" ego="vehicle_3245" foe="vehicle_3481">
+    <minTTC time="2666.00" position="51.16,61.99" type="3" value="2.14"/>
+    <maxDRAC time="2666.00" position="51.16,61.99" type="3" value="1.71"/>
+</conflict>
+<conflict begin="2662.00" end="2683.00" ego="vehicle_3481" foe="vehicle_3245">
+    <minTTC time="2666.00" position="51.16,61.99" type="2" value="2.14"/>
+    <maxDRAC time="2666.00" position="51.16,61.99" type="2" value="1.71"/>
+</conflict>

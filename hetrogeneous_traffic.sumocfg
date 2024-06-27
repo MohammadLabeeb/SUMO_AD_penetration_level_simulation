@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-21 19:50:00 by Eclipse SUMO GUI Version 1.9.2
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="road_and_vehicle.net.xml"/>
+        <route-files value="generated_traffic_0_5.rou.xml"/>
+    </input>
+	
+	<output>
+        <output-prefix value="out\myoutput."/>
+        <summary-output value="summary.xml"/>
+        <tripinfo-output value="tripinfo.xml"/>
+        <!-- <tripinfo-output.write-unfinished value="true"/> -->
+        <vehroute-output value="vehroute.xml"/>
+        <!-- <vehroute-output.route-length value="true"/> -->
+        <!-- <vehroute-output.write-unfinished value="true"/> -->
+        <!-- <vehroute-output.skip-ptlines value="true"/> -->
+        <!-- <vehroute-output.exit-times value="true"/> -->
+        <stop-output value="stop.out.xml"/>
+        <!-- <lanechange-output value="lanechanges.out.xml"/> -->
+        <!-- <lanechange-output.started value="true"/> -->
+        <!-- <lanechange-output.ended value="true"/> -->
+		<!-- <output-files value="SSMs.xml"/> -->
+    </output>
+
+</configuration>
